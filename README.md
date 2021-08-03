@@ -3,7 +3,7 @@
 https://yuhe-dogspaw.tistory.com/66 !! 할 수 있 다 ! ! ! 
 
 팀원1 : skkim123(백준)
-팀원2 : 
+팀원2 : bsimple98
 
 파일 이름은 어떻게 할까
 
