@@ -1,14 +1,9 @@
 # Algorithm_Study
 
-https://yuhe-dogspaw.tistory.com/66 !! 할 수 있 다 ! ! ! 
+https://yuhe-dogspaw.tistory.com/66 
 
-팀원1 : skkim123(백준)
+(백준)
+팀원1 : skkim123
 팀원2 : bsimple98
 
-파일 이름은 어떻게 할까
 
-예를 들어 [sk혹은cj]_[문제번호]_[알고리즘 분류(있다면].cpp
-        [sk혹은cj]_[문제번호]_[알고리즘 분류(있다면].py 로 올리기? 하핫
-
-구글에서 검색해서 힌트를 얻은 것은 파일명에 표기하고 >> 뭐라고 표기할까 ㅎ 참고한 정도를 퍼센테이지로 나타내기?
-그 출처를 주석으로 달기?
