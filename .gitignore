@@ -1,3 +1,8 @@
 *.DS_Store
+<<<<<<< HEAD
+.vscode/launch.json
+.gitignore
+=======
 .idea
 .vscode
+>>>>>>> 3259f4c11ed850937e9fbb7a3306d47211848f4f
