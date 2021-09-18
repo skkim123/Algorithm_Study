@@ -1,6 +1,5 @@
-*.DS_Store
 <<<<<<< HEAD
-.vscode/launch.json
+.DS_Store
 .gitignore
 =======
 .idea
