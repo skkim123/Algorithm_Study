@@ -23,9 +23,8 @@ if not(par_R or par_C):
     min_i, min_j = 0, 1
     for i in range(R):
         for j in range(C):
-            if (i + j) % 2:
-                if G[i][j] < G[min_i][min_j]:
-                    min_i, min_j = i, j
+            if (i + j) % 2 and G[i][j] < G[min_i][min_j]:
+                min_i, min_j = i, j
     connected[min_i][min_j] = 0
     neighbor(min_i, min_j)
 
